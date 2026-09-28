@@ -27,7 +27,7 @@ The internship focused on building practical Python applications covering core p
 | 2        | Random Password Generator     | Secure password generator with customizable options    | [Task2_Password_Generator](./Task2_Password_Generator) |
 | 3        | Basic Weather App             | Real-time weather application using OpenWeatherMap API | [Task3_Weather_App](./Task3_Weather_App)               |
 | 4        | Voice Assistant               | Voice-controlled assistant with speech recognition
-|          |                                 and text-to-speech                                     | [Task4_Voice_Assistant](./Task4_Voice_Assistant)       |
+|          |                               | and text-to-speech                                     | [Task4_Voice_Assistant](./Task4_Voice_Assistant)       |
 
 ---
 
