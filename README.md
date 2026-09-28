@@ -36,7 +36,7 @@ The internship focused on building practical Python applications covering core p
 - Python 3
 - SpeechRecognition & pyttsx3
 - Requests & OpenWeatherMap API
-- Socket Programming & Threading
+- Programming & Threading
 - Input Validation & Error Handling
 - Modular Code Design
 - Technical Documentation
