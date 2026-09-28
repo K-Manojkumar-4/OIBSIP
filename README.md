@@ -15,7 +15,7 @@
 
 This repository contains all the projects completed during the **Python Programming Internship** under **Oasis Infobyte (OIBSIP)**.
 
-The internship focused on building practical Python applications covering core programming concepts, API integration, speech recognition, and socket programming.
+The internship focused on building practical Python applications covering core programming concepts, API integration and speech recognition.
 
 ---
 
@@ -82,8 +82,8 @@ Simply open the respective task folder and follow the instructions in its README
 **Manoj Kumar K**  
 Oasis Infobyte – Python Programming Intern  
 
-🔗 GitHub: [Your GitHub Profile](https://github.com/YourUsername)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YourProfile)
+🔗 GitHub: [Your GitHub Profile](https://github.com/K-Manojkumar-4)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-k-/)
 
 ---
 
