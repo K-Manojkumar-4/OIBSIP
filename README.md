@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Internship-Completed-success?style=for-the-badge)
 ![Oasis Infobyte](https://img.shields.io/badge/Oasis%20Infobyte-OIBSIP-orange?style=for-the-badge)
 
-**Intern Name:** Your Full Name  
+**Intern Name:** Manoj Kumar K  
 **Organization:** Oasis Infobyte  
 **Track:** Python Programming  
 **Duration:** September 2026 – October 2026
