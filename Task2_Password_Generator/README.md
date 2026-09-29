@@ -65,3 +65,7 @@ Task2_Password_Generator/
 
 ```bash
 python password_generator.py
+```
+## Screenshots Outputs
+
+![BMI Output](screenshots/)
