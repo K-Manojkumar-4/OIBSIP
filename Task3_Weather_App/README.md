@@ -66,3 +66,7 @@ Task3_Weather_App/
 2. Install the required library:
    ```bash
    pip install requests
+   ```
+## Screenshots Outputs
+
+![BMI Output](screenshots/)
