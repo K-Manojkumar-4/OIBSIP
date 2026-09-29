@@ -35,10 +35,10 @@ Task1_BMI_Calculator/
 
 ## 🛠️ Technologies Used
 
-| Technology       | Purpose                          |
-|------------------|----------------------------------|
-| Python 3         | Core programming language        |
-| Built-in functions | Input handling, calculations, and logic |
+| Technology           | Purpose                                   |
+|----------------------|-------------------------------------------|
+| Python 3             | Core programming language                 |
+| Built-in functions   | Input handling, calculations, and logic   |
 
 ---
 
@@ -48,10 +48,13 @@ Task1_BMI_Calculator/
 - Calculates BMI using the formula:  
   **BMI = weight / (height²)**
 - Classifies the result into the following categories:
-  - Underweight (< 18.5)
-  - Normal (18.5 – 24.9)
-  - Overweight (25 – 29.9)
-  - Obese (≥ 30)
+  
+    Category     | BMI Range      | Indicator | 
+  - Underweight  | (< 18.5)       |   ❌     |
+  - Normal       | (18.5 – 24.9)  |   ✅     |
+  - Overweight   | (25 – 29.9)    |   ⚠️     |
+  - Obese        | (≥ 30)         |   🚨     |
+    
 - Displays BMI value rounded to 2 decimal places
 - Includes strong input validation (rejects non-numeric and negative values)
 - User-friendly command-line interface
