@@ -70,16 +70,3 @@ Task1_BMI_Calculator/
 ```bash
 python bmi_calculator.py
 ```
-##  Usage Example
-
-=============== BMI CALCULATOR ===============
-
-Enter your weight ⚖️  in kilograms : 70
-Enter your height 📏 in meters    : 1.75
-
-Great!💪 You are in a healthy range.
-
-------------------- RESULTS ------------------
-Your BMI is : 22.86.
-Your are classified as : Normal weight ✅ .
-----------------------------------------------
