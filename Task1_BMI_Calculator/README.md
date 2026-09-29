@@ -70,3 +70,6 @@ Task1_BMI_Calculator/
 ```bash
 python bmi_calculator.py
 ```
+## Screenshots
+
+![BMI Output](screenshots/)
